@@ -20,15 +20,19 @@ Deliverables: training script, saved model & scaler, Streamlit app, documentatio
 Clone
 
 git clone https://github.com/<your-username>/diabetes-prediction-app.git
+
 cd diabetes-prediction-app
 
 Create & activate venv
 
 python -m venv .venv
+
 Windows (Git Bash)
 source .venv/Scripts/activate
+
 PowerShell
 .venv\Scripts\Activate.ps1
+
 Mac / Linux
 source .venv/bin/activate
 
@@ -36,9 +40,11 @@ Install dependencies
 pip install -r requirements.txt
 
 
+
 Train model (optional if model.pkl already present)
 
 python src/train_model.py
+
 
 This will print evaluation metrics and create:
 
