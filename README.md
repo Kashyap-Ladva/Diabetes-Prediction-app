@@ -126,12 +126,7 @@ AUC-ROC (optional, useful for imbalance)
 
 # Screenshot
 
-![App Screenshot](assets/ss1.png)(assets/ss2.png)(assets/ss3.png)(assets/ss4.png)
-
-
-# License
-
-This project is licensed under the MIT License — feel free to reuse and modify.
+![App Screenshot](assets/ss1.png)
 
 
 # Contact / Credits
