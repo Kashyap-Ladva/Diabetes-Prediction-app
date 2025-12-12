@@ -126,7 +126,7 @@ AUC-ROC (optional, useful for imbalance)
 
 # Screenshot
 
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](assets/ss1.png)(assets/ss2.png)(assets/ss3.png)(assets/ss4.png)
 
 
 # License
