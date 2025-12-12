@@ -72,8 +72,8 @@ except Exception as e:
 
 st.title(" Diabetes Risk Prediction App ")
 st.write(
-    "This app uses a Logistic Regression model trained on the Pima Indians Diabetes dataset "
-   "This demo is for educational purposes only."
+    "This app uses a Logistic Regression model trained on the Pima Indians Diabetes dataset."
+    "\nThis demo is for educational purposes only."
 )
 
 st.sidebar.header("About")
